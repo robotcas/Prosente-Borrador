@@ -7083,6 +7083,7 @@ a{
  img {
      height: auto;
      width: 56%;
+      margin: 4%;
 }
 /* box layout */
  .box.wrapper {
